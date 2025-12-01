@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; background:#f6fbf7; color:#073B17; margin:0; padding:0; }
+header { background: linear-gradient(90deg,#0b5e2e,#2ea56b); color:white; padding:20px; }
+main { padding:20px; }
+.cards { display:flex; gap:12px; flex-wrap:wrap; }
+.card { background:white; padding:12px; border-radius:8px; box-shadow:0 1px 3px rgba(0,0,0,0.1); min-width:160px; }
