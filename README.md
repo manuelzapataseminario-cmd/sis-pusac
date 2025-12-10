@@ -33,3 +33,4 @@ Instrucciones rápidas para subir a GitHub y clonar en servidor:
 4. Editar config/db.php con credenciales reales.
 
 NOTA: Este paquete es un esqueleto completo para comenzar; reemplazar y añadir módulos según lo desarrollado.
+# Redeploy Railway
